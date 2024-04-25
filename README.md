@@ -1,4 +1,4 @@
-# diabet_app
+# Diabet Applecation
 
 A new Flutter project.
 
