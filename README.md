@@ -1,4 +1,4 @@
-# Diabet Applecation
+# Diabetes under control
 
 A new Flutter project.
 
